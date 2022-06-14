@@ -1,7 +1,7 @@
 # Nargiza Khudoykulova - Frontend developer
 ## **Career objective**
   To secure a position (Software Developer) where I can efficiently contribute my skills and abilities to the growth of the organization and build my professional career.
-      
+
 **Technical Skills**  
   Good knowledge of OOP
      
@@ -16,7 +16,8 @@
   Work experience with databases like: MySQL, Firebase Cloud Storage
 
   Ability to read and understand other’s code
-**Work Experience**
+
+  **Work Experience**
 
   Private tutor: Mathematics for entering international and national Universities
 
