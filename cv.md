@@ -1,3 +1,4 @@
+Nargiza Khudoykulova - Frontend developer
 Career objective 
   To secure a position (Software Developer) where I can efficiently contribute my skills and abilities to the growth of the organization and build my professional career.
 Technical Skills  
